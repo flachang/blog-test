@@ -18,4 +18,4 @@
 ### 这是我自学的几个项目
 #### 第一个项目：[图解外边距和内边距](https://github.com/flaChang/111/blob/master/Untitled-1.html)
 
-#### 第二个项目：[致敬页](/111/master/袁隆平.html)
+#### 第二个项目：[致敬页](https://github.com/flaChang/111/blob/master/%E8%A2%81%E9%9A%86%E5%B9%B3.html)
